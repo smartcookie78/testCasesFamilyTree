@@ -753,11 +753,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\ATframework3demo.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\C#\\testCasesFamilyTree\\ATlearning\\ATframework3demo\\ATframework3demo.csproj",
       "projectName": "ATframework3demo",
-      "projectPath": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\ATframework3demo.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\C#\\testCasesFamilyTree\\ATlearning\\ATframework3demo\\ATframework3demo.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\C#\\testCasesFamilyTree\\ATlearning\\ATframework3demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
