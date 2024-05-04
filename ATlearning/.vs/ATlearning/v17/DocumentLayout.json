@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\familytree24qateam2024\\atlearning\\atframework3demo\\testcases\\mainpage\\case_id_7_removaltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\testcases\\mainpage\\case_id_7_removaltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\familytree24qateam2024\\atlearning\\atframework3demo\\testentities\\treeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\testentities\\treeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\familytree24qateam2024\\atlearning\\atframework3demo\\pageobjects\\homepage\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\pageobjects\\homepage\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\familytree24qateam2024\\atlearning\\atframework3demo\\seleniumframework\\mobileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\seleniumframework\\mobileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\familytree24qateam2024\\atlearning\\atframework3demo\\seleniumframework\\webitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\seleniumframework\\webitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\familytree24qateam2024\\atlearning\\atframework3demo\\seleniumframework\\driveractions\\webdriveractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\seleniumframework\\driveractions\\webdriveractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\familytree24qateam2024\\atlearning\\atframework3demo\\seleniumframework\\driveractions\\basedriveractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\seleniumframework\\driveractions\\basedriveractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\familytree24qateam2024\\atlearning\\atframework3demo\\seleniumframework\\baseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\seleniumframework\\baseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\familytree24qateam2024\\atlearning\\atframework3demo\\testcases\\treeeditingpage\\case_id_12_nodeedit_positive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\testcases\\treeeditingpage\\case_id_12_nodeedit_positive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\TestCases\\MainPage\\TestCase_ID_1_TreeDelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ATframework3demo\\TestCases\\MainPage\\TestCase_ID_1_TreeDelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\familytree24qateam2024\\atlearning\\atframework3demo\\baseframework\\waiters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\baseframework\\waiters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\familytree24qateam2024\\atlearning\\atframework3demo\\baseframework\\testcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\baseframework\\testcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\familytree24qateam2024\\atlearning\\atframework3demo\\baseframework\\logtools\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\baseframework\\logtools\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\familytree24qateam2024\\atlearning\\atframework3demo\\testentities\\portalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\testentities\\portalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\familytree24qateam2024\\atlearning\\atframework3demo\\baseframework\\logtools\\logmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\baseframework\\logtools\\logmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\familytree24qateam2024\\atlearning\\atframework3demo\\testentities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\testentities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\familytree24qateam2024\\atlearning\\atframework3demo\\pages\\testrunpage\\testruncomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\pages\\testrunpage\\testruncomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\familytree24qateam2024\\atlearning\\atframework3demo\\pages\\testrunpage\\testruncomponentbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\pages\\testrunpage\\testruncomponentbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\familytree24qateam2024\\atlearning\\atframework3demo\\baseframework\\casecollectionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\baseframework\\casecollectionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\familytree24qateam2024\\atlearning\\atframework3demo\\baseframework\\casecollectiongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\baseframework\\casecollectiongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|c:\\users\\user\\source\\repos\\c#\\familytree24qateam2024\\atlearning\\atframework3demo\\pageobjects\\registrationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B87D70C-4E3C-4930-BC8F-E486A8ACF0F1}|ATframework3demo\\ATframework3demo.csproj|solutionrelative:atframework3demo\\pageobjects\\registrationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\PageObjects\\TreePage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ATframework3demo\\PageObjects\\TreePage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Case_ID_7_RemovalTree.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\TestCases\\MainPage\\Case_ID_7_RemovalTree.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\TestCases\\MainPage\\Case_ID_7_RemovalTree.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\TestCases\\MainPage\\Case_ID_7_RemovalTree.cs",
+              "RelativeToolTip": "ATframework3demo\\TestCases\\MainPage\\Case_ID_7_RemovalTree.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:14:29.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebDriverActions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\SeleniumFramework\\DriverActions\\WebDriverActions.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\SeleniumFramework\\DriverActions\\WebDriverActions.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\SeleniumFramework\\DriverActions\\WebDriverActions.cs",
+              "RelativeToolTip": "ATframework3demo\\SeleniumFramework\\DriverActions\\WebDriverActions.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwDIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:48:27.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebItem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\SeleniumFramework\\WebItem.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\SeleniumFramework\\WebItem.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\SeleniumFramework\\WebItem.cs",
+              "RelativeToolTip": "ATframework3demo\\SeleniumFramework\\WebItem.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAA4wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:55:22.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MobileItem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\SeleniumFramework\\MobileItem.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\SeleniumFramework\\MobileItem.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\SeleniumFramework\\MobileItem.cs",
+              "RelativeToolTip": "ATframework3demo\\SeleniumFramework\\MobileItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:10:01.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseItem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\SeleniumFramework\\BaseItem.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\SeleniumFramework\\BaseItem.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\SeleniumFramework\\BaseItem.cs",
+              "RelativeToolTip": "ATframework3demo\\SeleniumFramework\\BaseItem.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAuwFQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:55:08.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TreeItem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\TestEntities\\TreeItem.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\TestEntities\\TreeItem.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\TestEntities\\TreeItem.cs",
+              "RelativeToolTip": "ATframework3demo\\TestEntities\\TreeItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:03:30.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\PageObjects\\HomePage\\MainPage.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\PageObjects\\HomePage\\MainPage.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\PageObjects\\HomePage\\MainPage.cs",
+              "RelativeToolTip": "ATframework3demo\\PageObjects\\HomePage\\MainPage.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAnwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:08:11.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseDriverActions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\SeleniumFramework\\DriverActions\\BaseDriverActions.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\SeleniumFramework\\DriverActions\\BaseDriverActions.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\SeleniumFramework\\DriverActions\\BaseDriverActions.cs",
+              "RelativeToolTip": "ATframework3demo\\SeleniumFramework\\DriverActions\\BaseDriverActions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:52:25.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Case_ID_12_NodeEdit_Positive.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\TestCases\\TreeEditingPage\\Case_ID_12_NodeEdit_Positive.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\TestCases\\TreeEditingPage\\Case_ID_12_NodeEdit_Positive.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\TestCases\\TreeEditingPage\\Case_ID_12_NodeEdit_Positive.cs",
+              "RelativeToolTip": "ATframework3demo\\TestCases\\TreeEditingPage\\Case_ID_12_NodeEdit_Positive.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:35:18.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Waiters.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\BaseFramework\\Waiters.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\BaseFramework\\Waiters.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\BaseFramework\\Waiters.cs",
+              "RelativeToolTip": "ATframework3demo\\BaseFramework\\Waiters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:10:23.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestCase.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\BaseFramework\\TestCase.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\BaseFramework\\TestCase.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\BaseFramework\\TestCase.cs",
+              "RelativeToolTip": "ATframework3demo\\BaseFramework\\TestCase.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:10:17.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PortalInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\TestEntities\\PortalInfo.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\TestEntities\\PortalInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\TestEntities\\PortalInfo.cs",
+              "RelativeToolTip": "ATframework3demo\\TestEntities\\PortalInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:03:32.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestCase_ID_1_TreeDelete.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\TestCases\\MainPage\\TestCase_ID_1_TreeDelete.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\TestCases\\MainPage\\TestCase_ID_1_TreeDelete.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\TestCases\\MainPage\\TestCase_ID_1_TreeDelete.cs",
+              "RelativeToolTip": "ATframework3demo\\TestCases\\MainPage\\TestCase_ID_1_TreeDelete.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:54:53.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\BaseFramework\\LogTools\\Log.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\BaseFramework\\LogTools\\Log.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\BaseFramework\\LogTools\\Log.cs",
+              "RelativeToolTip": "ATframework3demo\\BaseFramework\\LogTools\\Log.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:48:01.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TreePage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\PageObjects\\TreePage.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\PageObjects\\TreePage.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\PageObjects\\TreePage.cs",
+              "RelativeToolTip": "ATframework3demo\\PageObjects\\TreePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:47:39.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LogMessage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\BaseFramework\\LogTools\\LogMessage.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\BaseFramework\\LogTools\\LogMessage.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\BaseFramework\\LogTools\\LogMessage.cs",
+              "RelativeToolTip": "ATframework3demo\\BaseFramework\\LogTools\\LogMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:48:03.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\TestEntities\\User.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\TestEntities\\User.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\TestEntities\\User.cs",
+              "RelativeToolTip": "ATframework3demo\\TestEntities\\User.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:03:34.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TestRunComponent.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\Pages\\TestRunPage\\TestRunComponent.razor",
+              "RelativeDocumentMoniker": "ATframework3demo\\Pages\\TestRunPage\\TestRunComponent.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\Pages\\TestRunPage\\TestRunComponent.razor",
+              "RelativeToolTip": "ATframework3demo\\Pages\\TestRunPage\\TestRunComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T18:10:40.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TestRunComponentBase.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\Pages\\TestRunPage\\TestRunComponentBase.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\Pages\\TestRunPage\\TestRunComponentBase.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\Pages\\TestRunPage\\TestRunComponentBase.cs",
+              "RelativeToolTip": "ATframework3demo\\Pages\\TestRunPage\\TestRunComponentBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:10:35.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CaseCollectionGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\BaseFramework\\CaseCollectionGenerator.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\BaseFramework\\CaseCollectionGenerator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\BaseFramework\\CaseCollectionGenerator.cs",
+              "RelativeToolTip": "ATframework3demo\\BaseFramework\\CaseCollectionGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T17:50:04.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CaseCollectionBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\BaseFramework\\CaseCollectionBuilder.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\BaseFramework\\CaseCollectionBuilder.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\BaseFramework\\CaseCollectionBuilder.cs",
+              "RelativeToolTip": "ATframework3demo\\BaseFramework\\CaseCollectionBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T17:42:53.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegistrationPage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\PageObjects\\RegistrationPage.cs",
+              "RelativeDocumentMoniker": "ATframework3demo\\PageObjects\\RegistrationPage.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\FamilyTree24QATeam2024\\ATlearning\\ATframework3demo\\PageObjects\\RegistrationPage.cs",
+              "RelativeToolTip": "ATframework3demo\\PageObjects\\RegistrationPage.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAD0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T12:18:27.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
